@@ -1,2 +1,2 @@
-# Electric Vehicle Engineering - Playground
+# Electric Vehicle Engineering - Student's Playground
 Python - Android - AIML - MQTT
