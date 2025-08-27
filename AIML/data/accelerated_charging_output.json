@@ -1,0 +1,32 @@
+[
+  {
+    "time_hr": 0.0,
+    "voltage_V": 3.5804846174176133,
+    "temperature_C": 25.0,
+    "SoC_percent": 100
+  },
+  {
+    "time_hr": 0.010101010101010102,
+    "voltage_V": 3.45247569106369,
+    "temperature_C": 25.0,
+    "SoC_percent": 98.42171717171718
+  },
+  {
+    "time_hr": 0.020202020202020204,
+    "voltage_V": 3.3890479803724407,
+    "temperature_C": 25.0,
+    "SoC_percent": 96.84343434343434
+  },
+  {
+    "time_hr": 0.030303030303030304,
+    "voltage_V": 3.256656087792448,
+    "temperature_C": 25.0,
+    "SoC_percent": 95.26515151515152
+  },
+  {
+    "time_hr": 0.03487735569695948,
+    "voltage_V": 3.150114991213262,
+    "temperature_C": 25.0,
+    "SoC_percent": 94.55041317235008
+  }
+]

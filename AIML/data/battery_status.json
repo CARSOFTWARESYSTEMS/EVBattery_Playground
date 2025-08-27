@@ -1,0 +1,33 @@
+{
+  "timestamp": 1755172259,
+  "deviceId": "EVSim001",
+  "manufacturerId": "PyBaMM-Sim",
+  "packVoltage": 3.17,
+  "soc": 84.09,
+  "soh": 95.0,
+  "temperature": 25.0,
+  "cycleCount": 120,
+  "cellVoltages": [
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26,
+    0.26
+  ],
+  "fireRisk": "Low",
+  "location": {
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  "metadata": {
+    "source": "PyBaMM-MQTT",
+    "version": "1.0"
+  }
+}

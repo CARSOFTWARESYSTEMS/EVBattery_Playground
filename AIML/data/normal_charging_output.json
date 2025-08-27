@@ -1,0 +1,3402 @@
+[
+  {
+    "timestamp": 1755174220,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.77,
+    "soc": null,
+    "soh": 92.18,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.67,
+      3.67,
+      3.64,
+      3.61,
+      3.68,
+      3.68,
+      3.62,
+      3.63,
+      3.64,
+      3.64,
+      3.71
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972231181884325,
+      "longitude": 77.59396775407947
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889271"
+    }
+  },
+  {
+    "timestamp": 1755174221,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.76,
+    "soc": null,
+    "soh": 91.12,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.7,
+      3.72,
+      3.65,
+      3.73,
+      3.64,
+      3.69,
+      3.71,
+      3.64,
+      3.7,
+      3.66,
+      3.63
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972113607191316,
+      "longitude": 77.59488020597905
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889607"
+    }
+  },
+  {
+    "timestamp": 1755174222,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.76,
+    "soc": null,
+    "soh": 92.4,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.75,
+      3.69,
+      3.72,
+      3.65,
+      3.62,
+      3.6,
+      3.71,
+      3.73,
+      3.63,
+      3.7,
+      3.6
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971326704171489,
+      "longitude": 77.59500929649218
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889635"
+    }
+  },
+  {
+    "timestamp": 1755174223,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.75,
+    "soc": null,
+    "soh": 90.42,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.62,
+      3.65,
+      3.71,
+      3.73,
+      3.72,
+      3.62,
+      3.74,
+      3.69,
+      3.7,
+      3.62,
+      3.63
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.97248947857267,
+      "longitude": 77.59540758018883
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889658"
+    }
+  },
+  {
+    "timestamp": 1755174224,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.75,
+    "soc": null,
+    "soh": 90.71,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.74,
+      3.71,
+      3.62,
+      3.66,
+      3.68,
+      3.75,
+      3.66,
+      3.64,
+      3.71,
+      3.62,
+      3.72
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.97126644601042,
+      "longitude": 77.5941991526485
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889681"
+    }
+  },
+  {
+    "timestamp": 1755174225,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.75,
+    "soc": null,
+    "soh": 93.64,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.75,
+      3.71,
+      3.74,
+      3.75,
+      3.65,
+      3.63,
+      3.68,
+      3.62,
+      3.69,
+      3.68,
+      3.67
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972533142677985,
+      "longitude": 77.59417893662811
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889704"
+    }
+  },
+  {
+    "timestamp": 1755174226,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.74,
+    "soc": null,
+    "soh": 94.51,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.62,
+      3.7,
+      3.73,
+      3.71,
+      3.73,
+      3.69,
+      3.67,
+      3.71,
+      3.62,
+      3.72,
+      3.7
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972352474988798,
+      "longitude": 77.59544873212337
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889727"
+    }
+  },
+  {
+    "timestamp": 1755174227,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.74,
+    "soc": null,
+    "soh": 92.84,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.63,
+      3.61,
+      3.61,
+      3.63,
+      3.71,
+      3.61,
+      3.67,
+      3.69,
+      3.6,
+      3.69,
+      3.61
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97281787570172,
+      "longitude": 77.59379850560039
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889749"
+    }
+  },
+  {
+    "timestamp": 1755174228,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.74,
+    "soc": null,
+    "soh": 92.26,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.71,
+      3.69,
+      3.7,
+      3.62,
+      3.63,
+      3.64,
+      3.6,
+      3.72,
+      3.66,
+      3.7,
+      3.65
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972613021324417,
+      "longitude": 77.59454543878226
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889774"
+    }
+  },
+  {
+    "timestamp": 1755174229,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.74,
+    "soc": null,
+    "soh": 91.1,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.69,
+      3.66,
+      3.72,
+      3.65,
+      3.69,
+      3.73,
+      3.69,
+      3.72,
+      3.67,
+      3.66,
+      3.71
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971646969551122,
+      "longitude": 77.59404915686844
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889795"
+    }
+  },
+  {
+    "timestamp": 1755174230,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.73,
+    "soc": null,
+    "soh": 92.36,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.62,
+      3.73,
+      3.71,
+      3.7,
+      3.67,
+      3.66,
+      3.62,
+      3.61,
+      3.69,
+      3.73,
+      3.63,
+      3.6
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972716785488517,
+      "longitude": 77.59435443430145
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889817"
+    }
+  },
+  {
+    "timestamp": 1755174231,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.73,
+    "soc": null,
+    "soh": 90.01,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.61,
+      3.6,
+      3.62,
+      3.63,
+      3.69,
+      3.62,
+      3.7,
+      3.6,
+      3.61,
+      3.66,
+      3.65
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972602513306608,
+      "longitude": 77.59392578466102
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889838"
+    }
+  },
+  {
+    "timestamp": 1755174232,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.73,
+    "soc": null,
+    "soh": 94.3,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.62,
+      3.68,
+      3.64,
+      3.73,
+      3.74,
+      3.62,
+      3.62,
+      3.73,
+      3.72,
+      3.61,
+      3.68,
+      3.66
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972677709186245,
+      "longitude": 77.59505465379964
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889857"
+    }
+  },
+  {
+    "timestamp": 1755174233,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.73,
+    "soc": null,
+    "soh": 94.34,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.6,
+      3.63,
+      3.74,
+      3.61,
+      3.67,
+      3.71,
+      3.65,
+      3.67,
+      3.69,
+      3.66,
+      3.73
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971357331728282,
+      "longitude": 77.59484889760533
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889878"
+    }
+  },
+  {
+    "timestamp": 1755174234,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.73,
+    "soc": null,
+    "soh": 94.3,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.66,
+      3.71,
+      3.66,
+      3.67,
+      3.67,
+      3.63,
+      3.67,
+      3.73,
+      3.61,
+      3.71,
+      3.69
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.9709549894819,
+      "longitude": 77.59365558046348
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889899"
+    }
+  },
+  {
+    "timestamp": 1755174235,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.72,
+    "soc": null,
+    "soh": 92.23,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.69,
+      3.73,
+      3.67,
+      3.6,
+      3.7,
+      3.67,
+      3.61,
+      3.73,
+      3.67,
+      3.62,
+      3.73
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971515915160142,
+      "longitude": 77.5945317740837
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889921"
+    }
+  },
+  {
+    "timestamp": 1755174236,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.72,
+    "soc": null,
+    "soh": 94.81,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.61,
+      3.72,
+      3.64,
+      3.61,
+      3.6,
+      3.64,
+      3.61,
+      3.63,
+      3.61,
+      3.69,
+      3.61
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972755891701853,
+      "longitude": 77.59484787939353
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889941"
+    }
+  },
+  {
+    "timestamp": 1755174237,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.72,
+    "soc": null,
+    "soh": 91.55,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.66,
+      3.71,
+      3.67,
+      3.64,
+      3.66,
+      3.68,
+      3.71,
+      3.68,
+      3.73,
+      3.66,
+      3.69
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972864105163088,
+      "longitude": 77.5940091240765
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889962"
+    }
+  },
+  {
+    "timestamp": 1755174238,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.72,
+    "soc": null,
+    "soh": 90.19,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.7,
+      3.69,
+      3.72,
+      3.61,
+      3.64,
+      3.67,
+      3.7,
+      3.71,
+      3.74,
+      3.71,
+      3.62
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971011784062334,
+      "longitude": 77.59493725951442
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.889983"
+    }
+  },
+  {
+    "timestamp": 1755174239,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.72,
+    "soc": null,
+    "soh": 93.98,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.72,
+      3.66,
+      3.65,
+      3.7,
+      3.73,
+      3.71,
+      3.65,
+      3.66,
+      3.72,
+      3.69,
+      3.69,
+      3.73
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971633264342634,
+      "longitude": 77.5936897224582
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890003"
+    }
+  },
+  {
+    "timestamp": 1755174240,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 94.6,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.65,
+      3.69,
+      3.68,
+      3.6,
+      3.73,
+      3.65,
+      3.68,
+      3.73,
+      3.72,
+      3.6,
+      3.65
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972604886448106,
+      "longitude": 77.5938555249966
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890025"
+    }
+  },
+  {
+    "timestamp": 1755174241,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 90.14,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.73,
+      3.66,
+      3.75,
+      3.62,
+      3.73,
+      3.74,
+      3.74,
+      3.72,
+      3.72,
+      3.71,
+      3.64
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97187391363195,
+      "longitude": 77.5942855314275
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890044"
+    }
+  },
+  {
+    "timestamp": 1755174242,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 92.53,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.64,
+      3.6,
+      3.7,
+      3.61,
+      3.68,
+      3.67,
+      3.69,
+      3.64,
+      3.64,
+      3.75,
+      3.67
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972652601061101,
+      "longitude": 77.59406098446973
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890064"
+    }
+  },
+  {
+    "timestamp": 1755174243,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 91.83,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.64,
+      3.65,
+      3.61,
+      3.64,
+      3.69,
+      3.67,
+      3.67,
+      3.7,
+      3.68,
+      3.61,
+      3.69
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971854701584533,
+      "longitude": 77.59488074985609
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890087"
+    }
+  },
+  {
+    "timestamp": 1755174244,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 92.65,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.71,
+      3.62,
+      3.62,
+      3.71,
+      3.74,
+      3.69,
+      3.65,
+      3.67,
+      3.74,
+      3.6,
+      3.65
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971281198592546,
+      "longitude": 77.59391330333533
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890107"
+    }
+  },
+  {
+    "timestamp": 1755174245,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.71,
+    "soc": null,
+    "soh": 91.55,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.63,
+      3.72,
+      3.6,
+      3.69,
+      3.65,
+      3.67,
+      3.67,
+      3.73,
+      3.68,
+      3.64,
+      3.67
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971945474733888,
+      "longitude": 77.59420373097046
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890138"
+    }
+  },
+  {
+    "timestamp": 1755174246,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 92.03,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.6,
+      3.69,
+      3.69,
+      3.64,
+      3.67,
+      3.67,
+      3.73,
+      3.69,
+      3.74,
+      3.63,
+      3.69,
+      3.73
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971456656983026,
+      "longitude": 77.59394366659264
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890158"
+    }
+  },
+  {
+    "timestamp": 1755174247,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 93.75,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.64,
+      3.61,
+      3.68,
+      3.69,
+      3.66,
+      3.69,
+      3.65,
+      3.66,
+      3.68,
+      3.63,
+      3.62,
+      3.67
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.970973798292036,
+      "longitude": 77.59467328075895
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890182"
+    }
+  },
+  {
+    "timestamp": 1755174248,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 92.35,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.72,
+      3.64,
+      3.65,
+      3.68,
+      3.69,
+      3.73,
+      3.63,
+      3.69,
+      3.6,
+      3.64,
+      3.72
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972696809933073,
+      "longitude": 77.5946845836978
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890202"
+    }
+  },
+  {
+    "timestamp": 1755174249,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 94.71,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.7,
+      3.74,
+      3.63,
+      3.69,
+      3.65,
+      3.68,
+      3.68,
+      3.65,
+      3.61,
+      3.74,
+      3.69
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972778393792609,
+      "longitude": 77.59434215452201
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890223"
+    }
+  },
+  {
+    "timestamp": 1755174250,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 91.33,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.72,
+      3.7,
+      3.71,
+      3.68,
+      3.71,
+      3.65,
+      3.67,
+      3.71,
+      3.64,
+      3.7,
+      3.71
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972573582557015,
+      "longitude": 77.59405572879058
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890244"
+    }
+  },
+  {
+    "timestamp": 1755174251,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.7,
+    "soc": null,
+    "soh": 93.73,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.62,
+      3.62,
+      3.72,
+      3.73,
+      3.69,
+      3.62,
+      3.6,
+      3.72,
+      3.73,
+      3.71,
+      3.7,
+      3.7
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.97278558999587,
+      "longitude": 77.59494155820794
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890265"
+    }
+  },
+  {
+    "timestamp": 1755174252,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 91.88,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.62,
+      3.68,
+      3.75,
+      3.72,
+      3.6,
+      3.71,
+      3.72,
+      3.72,
+      3.66,
+      3.62,
+      3.74,
+      3.64
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972552991964326,
+      "longitude": 77.59416099783279
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890285"
+    }
+  },
+  {
+    "timestamp": 1755174253,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 94.57,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.72,
+      3.61,
+      3.69,
+      3.61,
+      3.73,
+      3.61,
+      3.68,
+      3.71,
+      3.71,
+      3.73,
+      3.69,
+      3.66
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972537530412184,
+      "longitude": 77.59401133473183
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890306"
+    }
+  },
+  {
+    "timestamp": 1755174254,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 90.73,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.62,
+      3.62,
+      3.69,
+      3.74,
+      3.71,
+      3.61,
+      3.62,
+      3.67,
+      3.65,
+      3.65,
+      3.66
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971801720007281,
+      "longitude": 77.59498534450277
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890326"
+    }
+  },
+  {
+    "timestamp": 1755174255,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 90.58,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.67,
+      3.68,
+      3.69,
+      3.66,
+      3.7,
+      3.66,
+      3.63,
+      3.62,
+      3.61,
+      3.62,
+      3.74
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972032571296765,
+      "longitude": 77.59410818958516
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890348"
+    }
+  },
+  {
+    "timestamp": 1755174256,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 91.16,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.6,
+      3.69,
+      3.72,
+      3.73,
+      3.73,
+      3.6,
+      3.65,
+      3.67,
+      3.72,
+      3.66,
+      3.73
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971935075684621,
+      "longitude": 77.59486692280007
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890367"
+    }
+  },
+  {
+    "timestamp": 1755174257,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 92.04,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.75,
+      3.71,
+      3.73,
+      3.69,
+      3.69,
+      3.71,
+      3.64,
+      3.74,
+      3.71,
+      3.65,
+      3.64,
+      3.71
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971682990532772,
+      "longitude": 77.5936346183666
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890393"
+    }
+  },
+  {
+    "timestamp": 1755174258,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.69,
+    "soc": null,
+    "soh": 91.48,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.69,
+      3.63,
+      3.73,
+      3.75,
+      3.69,
+      3.7,
+      3.73,
+      3.73,
+      3.66,
+      3.65,
+      3.65
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971508643243896,
+      "longitude": 77.5940643181252
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890413"
+    }
+  },
+  {
+    "timestamp": 1755174259,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 92.9,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.75,
+      3.63,
+      3.64,
+      3.66,
+      3.64,
+      3.66,
+      3.64,
+      3.63,
+      3.63,
+      3.72,
+      3.68,
+      3.63
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972197722229732,
+      "longitude": 77.59508116863644
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890433"
+    }
+  },
+  {
+    "timestamp": 1755174260,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 93.2,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.67,
+      3.66,
+      3.7,
+      3.68,
+      3.69,
+      3.65,
+      3.6,
+      3.61,
+      3.73,
+      3.67,
+      3.74,
+      3.68
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.970917054831242,
+      "longitude": 77.59446423844591
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890452"
+    }
+  },
+  {
+    "timestamp": 1755174261,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 93.26,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.72,
+      3.71,
+      3.74,
+      3.71,
+      3.69,
+      3.65,
+      3.72,
+      3.74,
+      3.63,
+      3.75,
+      3.61
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972401761930039,
+      "longitude": 77.59420162357907
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890485"
+    }
+  },
+  {
+    "timestamp": 1755174262,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 92.24,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.67,
+      3.73,
+      3.63,
+      3.6,
+      3.68,
+      3.67,
+      3.63,
+      3.62,
+      3.66,
+      3.72,
+      3.71
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97097872509335,
+      "longitude": 77.59423947097898
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890505"
+    }
+  },
+  {
+    "timestamp": 1755174263,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 92.79,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.63,
+      3.71,
+      3.64,
+      3.7,
+      3.66,
+      3.65,
+      3.71,
+      3.69,
+      3.7,
+      3.62,
+      3.62
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.97187001957831,
+      "longitude": 77.59541727704043
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890526"
+    }
+  },
+  {
+    "timestamp": 1755174264,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 93.98,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.62,
+      3.68,
+      3.73,
+      3.66,
+      3.65,
+      3.63,
+      3.68,
+      3.69,
+      3.71,
+      3.71,
+      3.75,
+      3.66
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971754793046431,
+      "longitude": 77.5952936052991
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890546"
+    }
+  },
+  {
+    "timestamp": 1755174265,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 94.43,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.69,
+      3.71,
+      3.69,
+      3.66,
+      3.64,
+      3.62,
+      3.65,
+      3.66,
+      3.67,
+      3.69,
+      3.74
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972071302049706,
+      "longitude": 77.59379518802895
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890566"
+    }
+  },
+  {
+    "timestamp": 1755174266,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.68,
+    "soc": null,
+    "soh": 94.19,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.6,
+      3.63,
+      3.66,
+      3.73,
+      3.73,
+      3.69,
+      3.62,
+      3.67,
+      3.62,
+      3.75,
+      3.71,
+      3.65
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971832986001049,
+      "longitude": 77.59409434701841
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890587"
+    }
+  },
+  {
+    "timestamp": 1755174267,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 93.6,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.66,
+      3.73,
+      3.64,
+      3.62,
+      3.61,
+      3.74,
+      3.74,
+      3.7,
+      3.7,
+      3.69,
+      3.61,
+      3.66
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.9722229445235,
+      "longitude": 77.59460550385536
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890607"
+    }
+  },
+  {
+    "timestamp": 1755174268,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 94.24,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.68,
+      3.72,
+      3.73,
+      3.64,
+      3.66,
+      3.64,
+      3.62,
+      3.71,
+      3.61,
+      3.69,
+      3.65
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972057834223166,
+      "longitude": 77.59419111393517
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890627"
+    }
+  },
+  {
+    "timestamp": 1755174269,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 91.53,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.65,
+      3.61,
+      3.68,
+      3.68,
+      3.64,
+      3.65,
+      3.66,
+      3.66,
+      3.67,
+      3.68,
+      3.72
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971035841394528,
+      "longitude": 77.59393277940757
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890647"
+    }
+  },
+  {
+    "timestamp": 1755174270,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 93.32,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.66,
+      3.63,
+      3.62,
+      3.69,
+      3.69,
+      3.68,
+      3.72,
+      3.7,
+      3.63,
+      3.69,
+      3.75,
+      3.72
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971922235281776,
+      "longitude": 77.59448553059327
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890666"
+    }
+  },
+  {
+    "timestamp": 1755174271,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 94.1,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.73,
+      3.73,
+      3.6,
+      3.69,
+      3.63,
+      3.61,
+      3.62,
+      3.67
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972554232912575,
+      "longitude": 77.59441117009736
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890686"
+    }
+  },
+  {
+    "timestamp": 1755174272,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 92.97,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.66,
+      3.72,
+      3.65,
+      3.66,
+      3.64,
+      3.61,
+      3.72,
+      3.68,
+      3.68,
+      3.67,
+      3.62
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971733903706347,
+      "longitude": 77.59495436738808
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890707"
+    }
+  },
+  {
+    "timestamp": 1755174273,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 90.95,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.72,
+      3.66,
+      3.74,
+      3.6,
+      3.65,
+      3.73,
+      3.68,
+      3.7,
+      3.66,
+      3.73,
+      3.64
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972046944412917,
+      "longitude": 77.59444865271729
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890727"
+    }
+  },
+  {
+    "timestamp": 1755174274,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.67,
+    "soc": null,
+    "soh": 92.88,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.67,
+      3.75,
+      3.73,
+      3.7,
+      3.75,
+      3.67,
+      3.66,
+      3.61,
+      3.65,
+      3.61,
+      3.64,
+      3.65
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971884422652979,
+      "longitude": 77.59396187466103
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890746"
+    }
+  },
+  {
+    "timestamp": 1755174275,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 91.03,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.7,
+      3.61,
+      3.61,
+      3.63,
+      3.69,
+      3.71,
+      3.72,
+      3.64,
+      3.69,
+      3.73,
+      3.69
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971335923452486,
+      "longitude": 77.59379518670279
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890767"
+    }
+  },
+  {
+    "timestamp": 1755174276,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 93.29,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.71,
+      3.64,
+      3.68,
+      3.67,
+      3.67,
+      3.66,
+      3.61,
+      3.63,
+      3.74,
+      3.63,
+      3.6
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971787231675759,
+      "longitude": 77.59473173308349
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890787"
+    }
+  },
+  {
+    "timestamp": 1755174277,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 94.96,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.72,
+      3.73,
+      3.69,
+      3.65,
+      3.69,
+      3.66,
+      3.66,
+      3.73,
+      3.75,
+      3.74,
+      3.72
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971672447588874,
+      "longitude": 77.59364924781795
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890807"
+    }
+  },
+  {
+    "timestamp": 1755174278,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 92.91,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.65,
+      3.74,
+      3.72,
+      3.72,
+      3.69,
+      3.66,
+      3.65,
+      3.7,
+      3.6,
+      3.74,
+      3.69
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972253864012586,
+      "longitude": 77.59555392908165
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890826"
+    }
+  },
+  {
+    "timestamp": 1755174279,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 93.13,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.69,
+      3.67,
+      3.63,
+      3.6,
+      3.64,
+      3.65,
+      3.73,
+      3.71,
+      3.69,
+      3.63,
+      3.66
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971938857271118,
+      "longitude": 77.59424916417657
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890847"
+    }
+  },
+  {
+    "timestamp": 1755174280,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 90.43,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.63,
+      3.68,
+      3.67,
+      3.62,
+      3.66,
+      3.72,
+      3.72,
+      3.73,
+      3.71,
+      3.68,
+      3.63
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972812973541444,
+      "longitude": 77.59422358481409
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890866"
+    }
+  },
+  {
+    "timestamp": 1755174281,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 91.23,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.63,
+      3.61,
+      3.75,
+      3.74,
+      3.64,
+      3.67,
+      3.63,
+      3.66,
+      3.68,
+      3.71,
+      3.73
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972693119449712,
+      "longitude": 77.59431588178659
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890892"
+    }
+  },
+  {
+    "timestamp": 1755174282,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 92.36,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.64,
+      3.66,
+      3.74,
+      3.74,
+      3.64,
+      3.68,
+      3.67,
+      3.75,
+      3.73,
+      3.6,
+      3.69
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971987280962924,
+      "longitude": 77.59369391929228
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890912"
+    }
+  },
+  {
+    "timestamp": 1755174283,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.66,
+    "soc": null,
+    "soh": 90.07,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.7,
+      3.63,
+      3.61,
+      3.73,
+      3.73,
+      3.72,
+      3.71,
+      3.68,
+      3.68,
+      3.62,
+      3.62
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971962680007627,
+      "longitude": 77.595492185695
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890932"
+    }
+  },
+  {
+    "timestamp": 1755174284,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 91.55,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.7,
+      3.69,
+      3.69,
+      3.67,
+      3.69,
+      3.64,
+      3.65,
+      3.69,
+      3.72,
+      3.65,
+      3.71
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971257582963958,
+      "longitude": 77.59447400474762
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890951"
+    }
+  },
+  {
+    "timestamp": 1755174285,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 90.22,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.64,
+      3.73,
+      3.66,
+      3.72,
+      3.72,
+      3.69,
+      3.62,
+      3.75,
+      3.74,
+      3.65,
+      3.73
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.97188592787408,
+      "longitude": 77.5947132849402
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890974"
+    }
+  },
+  {
+    "timestamp": 1755174286,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 94.33,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.64,
+      3.63,
+      3.64,
+      3.75,
+      3.63,
+      3.62,
+      3.72,
+      3.64,
+      3.69,
+      3.71,
+      3.7,
+      3.69
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971891068970834,
+      "longitude": 77.59380412765063
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.890994"
+    }
+  },
+  {
+    "timestamp": 1755174287,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 91.53,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.71,
+      3.72,
+      3.72,
+      3.72,
+      3.71,
+      3.62,
+      3.68,
+      3.67,
+      3.66,
+      3.72,
+      3.62
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.97282155258007,
+      "longitude": 77.59391957625562
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891015"
+    }
+  },
+  {
+    "timestamp": 1755174288,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 91.19,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.71,
+      3.7,
+      3.61,
+      3.73,
+      3.67,
+      3.63,
+      3.64,
+      3.72,
+      3.69,
+      3.72,
+      3.72
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.97231591341539,
+      "longitude": 77.59554421671467
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891034"
+    }
+  },
+  {
+    "timestamp": 1755174289,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 91.86,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.71,
+      3.68,
+      3.7,
+      3.65,
+      3.62,
+      3.61,
+      3.68,
+      3.67,
+      3.71,
+      3.61,
+      3.6
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971122068505759,
+      "longitude": 77.59421259327746
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891053"
+    }
+  },
+  {
+    "timestamp": 1755174290,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 93.31,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.75,
+      3.75,
+      3.69,
+      3.72,
+      3.65,
+      3.66,
+      3.65,
+      3.68,
+      3.65,
+      3.75,
+      3.66
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97257944282144,
+      "longitude": 77.59443930470839
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891072"
+    }
+  },
+  {
+    "timestamp": 1755174291,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 92.32,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.64,
+      3.63,
+      3.71,
+      3.67,
+      3.72,
+      3.61,
+      3.68,
+      3.69,
+      3.75,
+      3.63,
+      3.65
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972342171355756,
+      "longitude": 77.59407870383862
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891097"
+    }
+  },
+  {
+    "timestamp": 1755174292,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 92.82,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.72,
+      3.75,
+      3.68,
+      3.68,
+      3.72,
+      3.66,
+      3.72,
+      3.63,
+      3.64,
+      3.62,
+      3.6,
+      3.75
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971832443089474,
+      "longitude": 77.59468496516644
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891120"
+    }
+  },
+  {
+    "timestamp": 1755174293,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.65,
+    "soc": null,
+    "soh": 94.22,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.66,
+      3.61,
+      3.6,
+      3.68,
+      3.69,
+      3.64,
+      3.66,
+      3.7,
+      3.63,
+      3.66,
+      3.64,
+      3.62
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971428434816682,
+      "longitude": 77.5936707082159
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891140"
+    }
+  },
+  {
+    "timestamp": 1755174294,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 94.86,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.74,
+      3.64,
+      3.63,
+      3.73,
+      3.69,
+      3.74,
+      3.71,
+      3.69,
+      3.68,
+      3.72,
+      3.62
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97109336071887,
+      "longitude": 77.59492202318278
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891160"
+    }
+  },
+  {
+    "timestamp": 1755174295,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 91.28,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.68,
+      3.73,
+      3.68,
+      3.62,
+      3.71,
+      3.63,
+      3.62,
+      3.71,
+      3.62,
+      3.67,
+      3.64
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972792543252,
+      "longitude": 77.59461603954072
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891179"
+    }
+  },
+  {
+    "timestamp": 1755174296,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 94.98,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.64,
+      3.67,
+      3.68,
+      3.63,
+      3.74,
+      3.7,
+      3.74,
+      3.63,
+      3.73,
+      3.63,
+      3.74,
+      3.62
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971976026882675,
+      "longitude": 77.59547313086274
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891198"
+    }
+  },
+  {
+    "timestamp": 1755174297,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 90.36,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.73,
+      3.66,
+      3.74,
+      3.72,
+      3.63,
+      3.61,
+      3.73,
+      3.72,
+      3.73,
+      3.61,
+      3.72,
+      3.69
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971218849064595,
+      "longitude": 77.59365840745893
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891220"
+    }
+  },
+  {
+    "timestamp": 1755174298,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 90.85,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.72,
+      3.7,
+      3.6,
+      3.72,
+      3.73,
+      3.7,
+      3.74,
+      3.73,
+      3.65,
+      3.72,
+      3.7
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972736495126556,
+      "longitude": 77.5936959762599
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891241"
+    }
+  },
+  {
+    "timestamp": 1755174299,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 92.97,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.66,
+      3.68,
+      3.67,
+      3.73,
+      3.67,
+      3.62,
+      3.72,
+      3.66,
+      3.67,
+      3.73,
+      3.71
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.970971701654436,
+      "longitude": 77.59524627716752
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891260"
+    }
+  },
+  {
+    "timestamp": 1755174300,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 93.89,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.67,
+      3.61,
+      3.74,
+      3.72,
+      3.72,
+      3.65,
+      3.68,
+      3.69,
+      3.63,
+      3.69,
+      3.62
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971935867275862,
+      "longitude": 77.59479264592169
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891279"
+    }
+  },
+  {
+    "timestamp": 1755174301,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 94.05,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.69,
+      3.62,
+      3.71,
+      3.61,
+      3.63,
+      3.74,
+      3.72,
+      3.69,
+      3.72,
+      3.74,
+      3.65
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972636714221094,
+      "longitude": 77.59378912526186
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891299"
+    }
+  },
+  {
+    "timestamp": 1755174302,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 93.75,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.7,
+      3.64,
+      3.74,
+      3.69,
+      3.73,
+      3.68,
+      3.73,
+      3.7,
+      3.65,
+      3.63,
+      3.64,
+      3.61
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972580632153196,
+      "longitude": 77.59404287420587
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891331"
+    }
+  },
+  {
+    "timestamp": 1755174303,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.64,
+    "soc": null,
+    "soh": 92.89,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.62,
+      3.67,
+      3.7,
+      3.69,
+      3.72,
+      3.73,
+      3.64,
+      3.62,
+      3.73,
+      3.64,
+      3.71
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972347170121811,
+      "longitude": 77.5953761051922
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891350"
+    }
+  },
+  {
+    "timestamp": 1755174304,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 93.58,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.66,
+      3.63,
+      3.74,
+      3.65,
+      3.6,
+      3.72,
+      3.68,
+      3.67,
+      3.73,
+      3.63,
+      3.71
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971533957993872,
+      "longitude": 77.5936357989685
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891369"
+    }
+  },
+  {
+    "timestamp": 1755174305,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 93.72,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.75,
+      3.63,
+      3.62,
+      3.74,
+      3.67,
+      3.73,
+      3.7,
+      3.68,
+      3.63,
+      3.69,
+      3.62,
+      3.74
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971022338140399,
+      "longitude": 77.59442548388353
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891389"
+    }
+  },
+  {
+    "timestamp": 1755174306,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 92.8,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.62,
+      3.73,
+      3.72,
+      3.68,
+      3.74,
+      3.64,
+      3.71,
+      3.72,
+      3.72,
+      3.61,
+      3.7
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971630890991314,
+      "longitude": 77.59442419956909
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891408"
+    }
+  },
+  {
+    "timestamp": 1755174307,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 91.93,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.61,
+      3.69,
+      3.74,
+      3.67,
+      3.72,
+      3.65,
+      3.66,
+      3.61,
+      3.6,
+      3.72,
+      3.63,
+      3.68
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972873195465242,
+      "longitude": 77.59522797034428
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891428"
+    }
+  },
+  {
+    "timestamp": 1755174308,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 91.09,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.64,
+      3.72,
+      3.6,
+      3.62,
+      3.62,
+      3.73,
+      3.74,
+      3.63,
+      3.64,
+      3.68,
+      3.69,
+      3.64
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.97090070026468,
+      "longitude": 77.59501821746265
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891447"
+    }
+  },
+  {
+    "timestamp": 1755174309,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 90.45,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.7,
+      3.71,
+      3.6,
+      3.7,
+      3.71,
+      3.68,
+      3.68,
+      3.62,
+      3.64,
+      3.62,
+      3.62
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.972382847432133,
+      "longitude": 77.59526910727799
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891469"
+    }
+  },
+  {
+    "timestamp": 1755174310,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.63,
+    "soc": null,
+    "soh": 91.83,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.66,
+      3.7,
+      3.74,
+      3.62,
+      3.62,
+      3.67,
+      3.6,
+      3.69,
+      3.72,
+      3.66,
+      3.68
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971222114060136,
+      "longitude": 77.59507515187452
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891491"
+    }
+  },
+  {
+    "timestamp": 1755174311,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 92.52,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.66,
+      3.7,
+      3.67,
+      3.72,
+      3.63,
+      3.62,
+      3.64,
+      3.61,
+      3.69,
+      3.68,
+      3.72,
+      3.67
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.972227509801067,
+      "longitude": 77.59516640031417
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891510"
+    }
+  },
+  {
+    "timestamp": 1755174312,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 93.05,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.71,
+      3.6,
+      3.61,
+      3.65,
+      3.62,
+      3.64,
+      3.74,
+      3.75,
+      3.71,
+      3.65,
+      3.65,
+      3.69
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971647769104852,
+      "longitude": 77.59381094490442
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891537"
+    }
+  },
+  {
+    "timestamp": 1755174313,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 92.14,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.69,
+      3.74,
+      3.64,
+      3.74,
+      3.64,
+      3.7,
+      3.74,
+      3.7,
+      3.67,
+      3.65,
+      3.67,
+      3.68
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.972663372598824,
+      "longitude": 77.59555564567087
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891559"
+    }
+  },
+  {
+    "timestamp": 1755174314,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 91.51,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.74,
+      3.61,
+      3.74,
+      3.62,
+      3.61,
+      3.64,
+      3.63,
+      3.73,
+      3.74,
+      3.6,
+      3.72,
+      3.7
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971333886761323,
+      "longitude": 77.59424255674902
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891579"
+    }
+  },
+  {
+    "timestamp": 1755174315,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 92.79,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.68,
+      3.71,
+      3.65,
+      3.66,
+      3.7,
+      3.69,
+      3.63,
+      3.72,
+      3.74,
+      3.61,
+      3.67,
+      3.67
+    ],
+    "fireRisk": "Moderate",
+    "location": {
+      "latitude": 12.971274864315346,
+      "longitude": 77.59377412573295
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891598"
+    }
+  },
+  {
+    "timestamp": 1755174316,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 93.79,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.65,
+      3.71,
+      3.71,
+      3.61,
+      3.71,
+      3.73,
+      3.67,
+      3.61,
+      3.64,
+      3.68,
+      3.68,
+      3.72
+    ],
+    "fireRisk": "High",
+    "location": {
+      "latitude": 12.971731637020929,
+      "longitude": 77.59431255729216
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891617"
+    }
+  },
+  {
+    "timestamp": 1755174317,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.62,
+    "soc": null,
+    "soh": 93.7,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.72,
+      3.69,
+      3.73,
+      3.71,
+      3.64,
+      3.73,
+      3.67,
+      3.73,
+      3.65,
+      3.74,
+      3.67,
+      3.65
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971498733632036,
+      "longitude": 77.59522426651455
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891637"
+    }
+  },
+  {
+    "timestamp": 1755174318,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.61,
+    "soc": null,
+    "soh": 91.49,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.66,
+      3.65,
+      3.63,
+      3.75,
+      3.61,
+      3.74,
+      3.6,
+      3.74,
+      3.67,
+      3.68,
+      3.68,
+      3.69
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971867356677752,
+      "longitude": 77.59375379311832
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891728"
+    }
+  },
+  {
+    "timestamp": 1755174319,
+    "deviceId": "EVSim001",
+    "manufacturerId": "PyBaMM-Sim",
+    "packVoltage": 3.61,
+    "soc": null,
+    "soh": 94.12,
+    "temperature": 25.0,
+    "cycleCount": 120,
+    "cellVoltages": [
+      3.63,
+      3.7,
+      3.69,
+      3.75,
+      3.66,
+      3.6,
+      3.72,
+      3.66,
+      3.64,
+      3.64,
+      3.67,
+      3.65
+    ],
+    "fireRisk": "Low",
+    "location": {
+      "latitude": 12.971312243280162,
+      "longitude": 77.59527620880652
+    },
+    "metadata": {
+      "source": "PyBaMM-MQTT",
+      "version": "1.0",
+      "generatedAt": "2025-08-14T12:23:40.891749"
+    }
+  }
+]
