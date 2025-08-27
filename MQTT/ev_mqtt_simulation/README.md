@@ -150,13 +150,13 @@ persistence false
 log_type all
 EOF
 
-# stop any background instance just in case
+# Stop any background instance just in case
 brew services stop mosquitto 2>/dev/null || true
 
-# start broker with verbose logs
+# Start broker with verbose logs
 mosquitto -c ~/mosquitto.conf -v
 
-# testing - Subscriber
+# Testing - Subscriber
 mosquitto_sub -h 127.0.0.1 -t 'test/topic' -v
 
 # Publisher
