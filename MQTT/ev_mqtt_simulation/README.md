@@ -159,5 +159,5 @@ mosquitto -c ~/mosquitto.conf -v
 # Testing - Subscriber
 mosquitto_sub -h 127.0.0.1 -t 'test/topic' -v
 
-# Publisher
+# Testing - Publisher
 mosquitto_pub -h 127.0.0.1 -t 'test/topic' -m 'hello'
