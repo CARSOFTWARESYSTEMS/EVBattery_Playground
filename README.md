@@ -2,7 +2,7 @@
 
 # AI‑Powered EV Battery Fire Prevention System
 
-# Hands‑On Plan
+# Hands‑On Plan - https://carsoftwaresystems.com/
 
 > Audience: Non‑EE founders, student teams (Android, AI/ML, Hardware).
 > Scope: Start with **two single lithium‑ion cells** on the bench, stream real‑time health to a **mobile app** via **MQTT**, then scale the same design to a small pack.
