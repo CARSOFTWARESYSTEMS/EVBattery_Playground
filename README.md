@@ -1,4 +1,4 @@
-# Electric Vehicle Engineering - Student's Playground
+# Electric Vehicle Engineering - EV.ENGINEER's Playground
 
 # AI‑Powered EV Battery Fire Prevention System
 
